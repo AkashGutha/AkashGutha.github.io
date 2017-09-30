@@ -14,6 +14,7 @@ highlighter: pygments
 permalink: pretty
 paginate: 5
 exclude: ["node_modules"]
+plugins: ["jekyll-paginate"]
 
 analytics :
   provider : google

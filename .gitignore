@@ -69,3 +69,6 @@ typings/
 
 # temp files
 .DS_Store
+
+### the site built must also be ignored ###
+_site
