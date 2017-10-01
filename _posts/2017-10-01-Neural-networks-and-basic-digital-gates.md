@@ -5,7 +5,6 @@
   tags: 
   categories: 
     - electronics
-    - machine learning
   author: Akash Gutha
   header_img: img/main-bg.jpg
 ---

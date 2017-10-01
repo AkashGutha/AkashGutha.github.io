@@ -3,7 +3,8 @@
   title: PIR sensor - Human computer Interaction
   subtitle: interacting with your computer using PIR sensor
   tags: electronics,hid,arduino,usb
-  categories: electronics
+  categories: 
+    - electronics
   author: Akash Gutha
   header_img: img/main-bg.jpg
 ---
