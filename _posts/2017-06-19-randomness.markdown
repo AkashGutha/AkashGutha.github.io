@@ -4,7 +4,7 @@ title:      "Is the Universe Random?"
 subtitle:   "A few thoughts on unpredictability in an increasingly predictable world..."
 date:       2017-06-19 12:00:00
 author:     "iamtrask"
-header-img: "img/earthrise.jpg"
+header_img: "img/earthrise.jpg"
 ---
 
 <p><b>TLDR:</b> I've recently wondered about whether the Universe is truly random, and I thought I'd write down a few thoughts on the subject. As a heads up, this post is more about sharing a personal journey I'm on than teaching a skill or tool (unlike many other blogposts). Feel free to chat with me about these ideas on Twitter as I'm still working through them myself and I'd love to hear your perspective.</p>
