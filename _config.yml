@@ -22,6 +22,6 @@ analytics :
     tracking_id : ''
   getclicky :
     site_id
-    
-gems:
+
+plugins:
   - jemoji
