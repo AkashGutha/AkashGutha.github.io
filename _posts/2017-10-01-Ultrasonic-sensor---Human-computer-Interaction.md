@@ -5,5 +5,5 @@
   tags: electronics,hid,arduino,vusb
   categories: electronics
   author: Akash Gutha
-  header_img: 
+  header_img: img/main-bg.jpg
 ---
