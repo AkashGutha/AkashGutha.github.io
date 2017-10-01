@@ -8,6 +8,6 @@
   header_img: img/main-bg.jpg
 ---
 
-{{ site.baseurl }}
+baseurl : {{ site.baseurl }}
 <hr />
-{{ site.url }}
+url : {{ site.url }}
