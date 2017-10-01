@@ -25,3 +25,4 @@ analytics :
 
 plugins:
   - jemoji
+  - jekyll-paginate
