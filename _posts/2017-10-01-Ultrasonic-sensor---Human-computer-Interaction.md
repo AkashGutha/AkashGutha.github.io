@@ -7,3 +7,7 @@
   author: Akash Gutha
   header_img: img/main-bg.jpg
 ---
+
+{{ site.baseurl }}
+<hr />
+{{ site.url }}
