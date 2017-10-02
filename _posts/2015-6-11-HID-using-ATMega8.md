@@ -1,6 +1,6 @@
 ---
   layout: post
-  title: HID using ATMega8
+  title: HID using ATMega8 and VUSB
   subtitle: a simple hand held poinitng device using virutal usb stack (vusb) and the microcontroller ATMega8
   tags: 
     - electronics
@@ -15,6 +15,4 @@
   header_img: img/main-bg.jpg
 ---
 
-<h1>
-  Wired Pointing Human Interface Device using V-USB 
-</h1>
+
