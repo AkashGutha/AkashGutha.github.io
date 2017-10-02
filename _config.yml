@@ -24,5 +24,11 @@ analytics :
     site_id
 
 plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-avatar
   - jemoji
+  - jekyll-mentions
   - jekyll-paginate
