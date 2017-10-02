@@ -28,5 +28,4 @@ But, you can always have multiple sensors in place and find the direction by che
 __How do they work ?__
 A Basic PIR sensor in the market will output a high signal for a fixed amount of time, once a movement is detected. This time can be configured by a potentiometer on the back of the PIR sensor. If this potentiometer is turned all the way to the end anticlockwise, the output signal time will be a few seconds and the time increases as it is turned clockwise. At the max the time will be for a few minutes (Varies by manufacturer but mostly 7-10 minutes). The other potentiometer is for the sensitivity. This can be left in the middle for normal household projects.
 
-Link to the Github project:
-https://github.com/AkashGutha/Pyroelectric-Infrared-Human-Interface-device.git
+Link to the Github project: [Pir HID](https://github.com/AkashGutha/Pyroelectric-Infrared-Human-Interface-device.git)

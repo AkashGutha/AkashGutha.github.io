@@ -30,5 +30,4 @@ This gives us the double distance. since, the audio signal travels from the sour
 Distance To Obstacle = Distance  Travelled / 2
 ```
 
-Link to the Github project:
-https://github.com/AkashGutha/Ultrasonic-Human-Interface-device.git
+Link to the Github project: [Ultrasonic HID](https://github.com/AkashGutha/Ultrasonic-Human-Interface-device.git)
