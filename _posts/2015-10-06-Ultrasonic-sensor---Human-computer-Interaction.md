@@ -20,7 +20,6 @@ __How does it look like ?__
 
 __How can we calculate the distance from the obstacle ?__
 The distance is proportional to the time the output signal is `HIGH`. Since, the time taken by the audio signal to reach an obstacle and reach back to the sensor is equal to the time the signal is `HIGH`, we can calculate the distance.
-
 ```
 Speed of sound = 340.29 m / s
 Signal Up Time = 0.01 s
