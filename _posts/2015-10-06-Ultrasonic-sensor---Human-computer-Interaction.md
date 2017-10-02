@@ -18,8 +18,12 @@ It sends an audio wave of a specific frequency, then it will raise the output si
 __How can we calculate the distance from the obstacle ?__
 The distance is proportional to the time the output signal is `HIGH`. Since, the time taken by the audio signal to reach an obstacle and reach back to the sensor is equal to the time the signal is `HIGH`, we can calculate the distance.
 
-> Speed of sound = 340.29 m / s
-> Signal Up Time = 0.01 s
-> Distance Travelled = (Signal Up Time) * ( Speed of sound )
+```
+Speed of sound = 340.29 m / s
+Signal Up Time = 0.01 s
+Distance Travelled = (Signal Up Time) * ( Speed of sound )
+```
 __This gives us the double distance. since, the audio signal travels from the source to the obstacle and back__
-> Distance To Obstacle = Distance  Travelled / 2
+```
+Distance To Obstacle = Distance  Travelled / 2
+```
