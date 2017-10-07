@@ -31,7 +31,7 @@ A Basic PIR sensor in the market will output a high signal for a fixed amount of
 __What are we going to build ?__
 A system HID device that can detect motion to perform a particular action. in this case sleep or awwke the system.
 
-Below is the circuit diagram
+__Below is the circuit diagram__
 ![Circuit]( {{ "img/PIR/pir_basic.png" | absolute_url }} ){:class="img-responsive"}
 
 Link to the Github project: [Pir HID](https://github.com/AkashGutha/Pyroelectric-Infrared-Human-Interface-device.git)

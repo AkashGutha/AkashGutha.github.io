@@ -30,4 +30,11 @@ This gives us the double distance. since, the audio signal travels from the sour
 Distance To Obstacle = Distance  Travelled / 2
 ```
 
+__What are we going to build ?__
+A Distance calculator to understand the basic setup of an ultrasonic sensor. Later, we will convert it into a human interactable device.
+
+__Baisc Setup__
+![Circuit]( {{ "img/ultrasonic_basic_ckt.png" | absolute_url }} ){:class="img-responsive"}
+
+
 Link to the Github project: [Ultrasonic HID](https://github.com/AkashGutha/Ultrasonic-Human-Interface-device.git)
