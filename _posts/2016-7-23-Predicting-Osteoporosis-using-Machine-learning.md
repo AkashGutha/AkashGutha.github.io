@@ -30,7 +30,7 @@ __How do we tackle this issue?__
 Premature care has shown positive effects. So, this research's the aim is to collect data from existing pateinets and use it to predict the probability that a person might develop Osteoporosis.
 
 __How do we collect the data?__
-There are many ways we can get meaningful data regarding Osteporosis. Many of them are invasive or require heavy equipment. But for this experiemnt, i tamed up with a friend of mine. We gather frequency of vibration from the [Tibial bones](https://en.wikipedia.org/wiki/Tibia) using impulses from a medical hammer and an accelerometer.
+There are many ways we can get meaningful data regarding Osteporosis. Many of them are invasive or require heavy equipment. But for this experiemnt, i teamed up with a friend of mine. We gather frequency of vibration from the [Tibial bones](https://en.wikipedia.org/wiki/Tibia) using impulses from a medical hammer and an accelerometer.
 
 
 Link to the project: [Predicting Osteoporosis](https://github.com/AkashGutha/Predicting-Osteporosis.git)
