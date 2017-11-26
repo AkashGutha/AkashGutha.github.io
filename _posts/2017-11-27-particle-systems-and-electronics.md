@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Writing software for electornics
+title: particle systems and electronics
 subtitle: 
 tags: 
 published: true
