@@ -1,6 +1,6 @@
 ---
 layout: post
-title: particle systems and electronics
+title: Particle systems and electronics
 subtitle: 
 tags: 
 published: true
