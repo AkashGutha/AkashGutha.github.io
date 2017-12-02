@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Particle systems and electronics
-subtitle: 
-tags: 
+subtitle: electronics with a touch of creativity
+tags: electronics, unity3d, hci
 published: true
 categories:
     - electronics
@@ -15,6 +15,8 @@ header_img: img/main-bg.jpg
 
 This is a fun experiment to explore bringing real life interaction into virtual
 environments.
+
+For this project we are gonna specifically use 
 
 **List of materials used for this project**
 
