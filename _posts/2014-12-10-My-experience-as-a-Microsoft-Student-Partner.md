@@ -27,7 +27,7 @@ This wasn't the fun part though. The fun part was the __Student Summit__
 
 It was a great oppurtunity to meet young and senior developers and interact with them. Below you can find some pictures from the event.
 
-A profile pic holder Microsoft sent us personally with the ID to use on Social Media.
+A profile pic holder __Microsoft__ sent us personally with the ID to use on Social Media.
 
 ![Profile]( {{ "assets/msp/profile.jpg" | absolute_url }} ){:class="img-responsive"}
 
