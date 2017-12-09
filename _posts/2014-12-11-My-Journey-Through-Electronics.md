@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Journey through Robotics
+title: My Journey through Electronics
 subtitle:
 tags:
   - programming
@@ -30,9 +30,27 @@ After playing around with the same robot for another month. I came across `Line 
 
 
 __Hover Craft__
+
 After taking our new robot the `LFR` to other competiitons in our nearby colleges, I and my team decided to participate in a Bigger TechFests and `IIT Bombay` was the perfect destination. We registered our team on the site for the `Line following Hoverbot Competiton` and started building our first `Hoverbot`
 
 {% include youtubevideo.html id=page.first_prototype_video_id %}
 
 __Communication Protocls__
-After playing around with line following robots, I found that i'm more interested in programming the microcontroller than building robots.
+
+With time I found that i'm more interested in programming the microcontroller than building robots. I started learning to program microcontrollers for more serious applications. My first step towards this was to implement every `interface` and `commmunication protocol` from scratch and test them. I started following [Patrick Hood daniel](https://www.youtube.com/watch?v=JMMamSVy1Zs&list=PLE72E4CFE73BD1DE1), a wonderful teacher on youtube. He teaches how to program a microcontroller, specifically the ATMega series.
+
+If you want to know what are the most common topics that you need to cover:
+1. Analog to digital conversion (ADC)
+2. Digital to analog conversion (DAC)
+3. Pulse width Modulation (PWM)
+4. Interrupts
+5. Crystal oscillators
+6. Fuse bits
+7. UART (Universal asynchronous reception and transmission)
+8. USART (Universal ynchronous and asynchronous reception and transmission)
+9. TWI or I2C (Two wire interface or  Inter-integrated Circuit)
+10. SPI (Serial peripheral interface)
+
+After learning all the `communication protocols` and `interfaces` and `stuff` that i thought was way out of my league, it was time to put my skills to test. This gave me the chance to play around with numerous sensors. This is a good way to understand how small real world appliances that you find around your house work. 
+
+Surfing through the internet i stumbeled upon Human computer interaction ( All those cool video of hand glove based intercation systems :wink: ). This is made me really interested into Human interface devices. Enter [HID](https://akashgutha.github.io/electronics/2015/06/11/HID-using-ATMega8/)
