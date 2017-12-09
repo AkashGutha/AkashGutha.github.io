@@ -27,3 +27,20 @@ This wasn't the fun part though. The fun part was the __Student Summit__
 
 It was a great oppurtunity to meet young and senior developers and interact with them. Below you can find some pictures from the event.
 
+A profile pic holder Microsoft sent us personally with the ID to use on Social Media.
+
+![Profile]( {{ "assets/msp/profile.jpg" | absolute_url }} ){:class="img-responsive"}
+
+We were split into groups before the event. A picture with my group at the event.
+
+![Group]( {{ "assets/msp/MSP.jpg" | absolute_url }} ){:class="img-responsive"}
+
+We also did a 15K marathon. Absolutely fantastic.
+
+![Group]( {{ "assets/msp/Marathon.jpg" | absolute_url }} ){:class="img-responsive"}
+
+Sweeping the streets for `swachh bharat`
+
+![Group]( {{ "assets/msp/swachh bharat.jpg" | absolute_url }} ){:class="img-responsive"}
+
+We also had an awesome DJ night with `food`and `redbull` :wink:
