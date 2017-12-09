@@ -17,16 +17,21 @@ first_prototype_video_id: nkUj4rt1_N0
 
 # The Journey
 
-The very first robot that i built was a simple four wheeled robots that had no __intelligent__ electronic design involved. I learnt building it from a robotics workshop conducted by my seniors at my university. The robot had a remote control and a long strand of wires hanging to connect it to the robot. We used a `Lithium-Ion battery 12V 20AH` enough to keep our robot running for an hour.
+__TL;DR__
+
+Robotics  :arrow_right:  Programming microcontrollers  :arrow_right:  Using Sensors  :arrow_right:  Human Interface Devices  :arrow_right:  Unity and Electronics  :arrow_right:  Neural Electronics
 
 __Simple Robot__
+
+The very first robot that i built was a simple four wheeled robots that had no __intelligent__ electronic design involved. I learnt building it from a robotics workshop conducted by my seniors at the university. The robot had a  controller board and a long strand of wires hanging to connect it to the robot. We used a `Lithium-Ion battery 12V 20AH` enough to keep our robot running for about an hour.
+
 
 
 After building this I and my team took it to a few events to participate. It did perform well :smile: but never won because, we never built it to win competitions. we were satisfied by the output.
 
 __Line Folowing Robots__
 
-After playing around with the same robot for another month. I came across `Line following robots (LFRs)`. They were instantly interesting to me becuase were everything i dreamt of doing as a kid `to build something cool using both hardware and software`. I was still in the first year and wasn't much aware of electronics in practice and this was a great experience.
+After playing around with the same robot for another month. I came across `Line following robots (LFRs)`. They were instantly interesting to me becuase they were everything i dreamt of doing as a kid `to build something cool using both hardware and software`. I was still in the first year and wasn't much aware of electronics in practice and this was a great experience.
 
 
 __Hover Craft__
