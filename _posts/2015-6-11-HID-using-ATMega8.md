@@ -32,3 +32,7 @@ One of the first experiments that i did with HID is to setup autmated mouse move
 The __wireless HID__
 {% include youtubevideo.html id=page.wireless_video_id %}
 
+The paper we wrote for this device needed some major rewrites and hence we decided not to publish it. After college it was hard for everyone to find time to invest in the papaer as everyone got busy with their lifes.
+
+
+<iframe class="resume" src="https://drive.google.com/file/d/0B5LD46uw6OKIX1o5QmpUcUZkMTVDUVI5elpJbXZWS0hKYUt3/preview" width="640" height="720"></iframe>
