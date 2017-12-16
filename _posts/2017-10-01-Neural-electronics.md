@@ -1,7 +1,7 @@
 ---
   layout: post
-  title: Neural Electronics - A Novel way of building digital electronics
-  subtitle: 
+  title: Neural Electronics
+  subtitle: A Novel way of building digital electronics
   tags: 
   categories: 
     - electronics
