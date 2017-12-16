@@ -9,5 +9,3 @@ categories:
 author: Akash Gutha
 header_img: img/main-bg.jpg
 ---
-
-
