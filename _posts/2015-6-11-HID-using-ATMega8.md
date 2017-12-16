@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HID using ATMega8 and VUSB
+title: Human computer interaction - Accelrometer(MPU-6050), VUSB, ATMega8
 subtitle: >-
   a simple hand held poinitng device using virutal usb stack and ATMega8
 tags:

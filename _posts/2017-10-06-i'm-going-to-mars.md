@@ -1,6 +1,6 @@
 ---
   layout: post
-  title: i'm going to mars
+  title: I'm going to mars
   subtitle: Not really, But my name is
   tags: life, travel, nasa, mars
   categories: life
