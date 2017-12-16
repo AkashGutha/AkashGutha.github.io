@@ -25,6 +25,9 @@ __Simple Robot__
 
 The very first robot that i built was a simple four wheeled robots that had no __intelligent__ electronic design involved. I learnt building it from a robotics workshop conducted by my seniors at the university. The robot had a  controller board and a long strand of wires hanging to connect it to the robot. We used a `Lithium-Ion battery 12V 20AH` enough to keep our robot running for about an hour.
 
+![Buidling]( {{ "assets/robotics/build phase.jpg" | absolute_url }} ){:class="img-responsive"}
+
+![Built]( {{ "assets/robotics/built robot.jpg" | absolute_url }} ){:class="img-responsive"}
 
 
 After building this I and my team took it to a few events to participate. It did perform well :smile: but never won because, we never built it to win competitions. we were satisfied by the output.
@@ -33,12 +36,36 @@ __Line Folowing Robots__
 
 After playing around with the same robot for another month. I came across `Line following robots (LFRs)`. They were instantly interesting to me becuase they were everything i dreamt of doing as a kid `to build something cool using both hardware and software`. I was still in the first year and wasn't much aware of electronics in practice and this was a great experience.
 
+a very very blurry photo that i happened to take. wish we were as foucused on taking photographs as on building robots :wink:
+
+![LFR]( {{ "assets/robotics/lfr.jpg" | absolute_url }} ){:class="img-responsive"}
+
 
 __Hover Craft__
 
 After taking our new robot the `LFR` to other competiitons in our nearby colleges, I and my team decided to participate in a Bigger TechFests and `IIT Bombay` was the perfect destination. We registered our team on the site for the `Line following Hoverbot Competiton` and started building our first `Hoverbot`
 
 {% include youtubevideo.html id=page.first_prototype_video_id %}
+
+__PCBs__
+
+Laying out your circuit on a PCB is every electornic engineer's dream and sadly it's hard to get a single PCB rpinted in India. In fact it's almost immposible assuming that you are a hobbyist and not are not being backed my any company.
+
+Luckily you cna build PCB at home using Copper plates, Print paper and Ferric chloride. Most of these materials are cheap and can be accquired easily. This method is called `Toner Transfer Technique`.
+
+The first PCB print that i've ever made
+![Pcb]( {{ "assets/electronics/pcb print.jpg" | absolute_url }} ){:class="img-responsive"}
+
+Ironing the print onto the copper plate
+![Ironing]( {{ "assets/electronics/ironing copper plate.jpg" | absolute_url }} ){:class="img-responsive"}
+
+__LCDs__
+
+Intefacing LCDs was tedious, yet the end result is always fun :heart:. The incentive of seeing your name on the LCD is itself enough motivation to take you through the tedious process. If you are interested in doing this i recommend you checkout Patrick Hood Daniel's channel on youtube.
+
+that level of narcissism :stuck_out_tongue:
+
+![lcd with name]( {{ "assets/electronics/lcd with name.jpg" | absolute_url }} ){:class="img-responsive"}
 
 __Communication Protocls__
 
