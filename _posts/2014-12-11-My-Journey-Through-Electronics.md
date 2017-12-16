@@ -85,4 +85,12 @@ If you want to know what are the most common topics that you need to cover:
 
 After learning all the `communication protocols` and `interfaces` and `stuff` that i thought was way out of my league, it was time to put my skills to test. This gave me the chance to play around with numerous sensors. This is a good way to understand how small real world appliances that you find around your house work. 
 
-Surfing through the internet i stumbeled upon Human computer interaction ( All those cool video of hand glove based intercation systems :wink: ). This is made me really interested into Human interface devices. Enter [HID](https://akashgutha.github.io/electronics/2015/06/11/HID-using-ATMega8/)
+
+__Human Computer Interaction__
+
+Surfing through the internet i stumbeled upon Human computer interaction ( All those cool video of hand glove based intercation systems :wink: ). This is made me really interested into Human interface devices. 
+
+I've written a whole set of blogs about it: <br />
+[IMU based HID](https://akashgutha.github.io/electronics/2015/06/11/HID-using-ATMega8/) <br />
+[PIR based HID](https://akashgutha.github.io/electronics/2015/07/21/PIR-sensor-Human-computer-Interaction/)<br />
+[Ultra sonic sensor based HID](https://akashgutha.github.io/electronics/2015/10/06/Ultrasonic-sensor-Human-computer-Interaction/)<br />
