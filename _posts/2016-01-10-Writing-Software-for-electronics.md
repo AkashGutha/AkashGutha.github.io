@@ -35,15 +35,21 @@ __Bit wise operators__
 so, let's say we have two numbers 5 and 9.
 the `Bit wise AND` operation of 5 and 9 will yield 1. confused? let's take a look at the math.
 
+
 5 in binary is 0000 0101
+
 9 in binary is 0000 1001
 
 now a bit wise and operator passes every two bits into an `AND gate`. The property of and `AND gate` is to output `1` only when both the inputs are `1`.
 
 AND
+
 5		0000 0101
+
 9		0000 1001
+
 1		0000 0001
+
 
 Only the last bit of the 8 bits from both the numebrs are `1`. Hence, the output for the rest of the positions is `0` and the total output is `0000 0001`.
 
