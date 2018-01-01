@@ -12,13 +12,13 @@ header_img: img/main-bg.jpg
 published: true
 ---
 
-At the first glance writing software for electronics might seem like a daunting task. It may feel esoteric even to the greatest programmers with no exposure to writing software for electronics. So, if you are a beginer or an intermediate level or even an advanced level programmer you need not worry about it. Instead there is a way we can get around this and in this post i'm gonna exaplain the exact process.
+At the first glance writing software for electronics might seem like a daunting task. It may feel esoteric even to the greatest programmers with no exposure to writing software for electronics. So, if you are a beginner or an intermediate level or even an advanced level programmer you need not worry about it. Instead there is a way we can get around this and in this post i'm gonna explain the exact process.
 
 __The programming language of Choice?__
 
 Mostly it is `C Language`. But, some IDEs and compilers also support `CPP`.
 
-So there is no new programming language that you have to learn in order to get started with progrmamming hardware ( unless you dont know C ).
+So there is no new programming language that you have to learn in order to get started with programming hardware ( unless you don't know C ).
 
 __What are the most important Operation that you need to know?__
 
@@ -30,7 +30,7 @@ __What are the most important Operation that you need to know?__
 
 __Bit wise operators__
 
-`Bit wise operators` are not equiavlent of the `&&` you use in a `if` statement. They are compleletly different. For example, if you apply a bit wise AND operator `&` between two numbers, the result is computed by passing each bit of the number through an `AND gate` from logic gates and spitting out the number.
+`Bit wise operators` are not equivalent of the `&&` you use in a `if` statement. They are completely different. For example, if you apply a bit wise AND operator `&` between two numbers, the result is computed by passing each bit of the number through an `AND gate` from logic gates and spitting out the number.
 
 so, let's say we have two numbers 5 and 9.
 the `Bit wise AND` operation of 5 and 9 will yield 1. confused? let's take a look at the math.
@@ -51,6 +51,6 @@ AND
 1		0000 0001
 
 
-Only the last bit of the 8 bits from both the numebrs are `1`. Hence, the output for the rest of the positions is `0` and the total output is `0000 0001`.
+Only the last bit of the 8 bits from both the numbers are `1`. Hence, the output for the rest of the positions is `0` and the total output is `0000 0001`.
 
 
