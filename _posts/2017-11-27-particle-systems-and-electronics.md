@@ -13,15 +13,26 @@ author: Akash Gutha
 header_img: img/main-bg.jpg
 ---
 
-This is a fun experiment to explore bringing real life interaction into virtual
-environments.
+This is a fun experiment to explore bringing real life interaction into virtual environments. The interaction is with the computer fan. There are different variants of computer fans available in the market. we are going to be using the 3-wire variant, 4-wire variant should work without any issues.
 
-For this project we are gonna specifically use 
+The three wire variant has three color coded wires (obviously)
 
-**List of materials used for this project**
+1. Red (Power +5v/+12v).
+2. Black (Ground).
+3. Yellow (analog output/ RPM output).
+
+The red and black are self-explanatory. The yellow wire outputs voltage that can be plugged into an ADC (analog to digital converter to get the current rpm - rotation per minute). In the four wire variant, you can see a blue wire. The blue wire is for PWM( pulse width modulation) control, to control the speed of the fan. This is just an added advantage, but we can also use PWM signals form any micro-controller as the input to the fan to simulate the same effect.
+
+__3 wire variant__
+![3-Wire]( {{ "assets/electronics/3-wire-computer-fan.jpg" | absolute_url }} ){:class="img-responsive"}
+
+__4 wire variant__
+![4-Wire]( {{ "assets/electronics/4-wire-computer-fan.jpg" | absolute_url }} ){:class="img-responsive"}
+
+# For this project we are gonna specifically use
 
 1. Arduino Uno
 2. Connecting USB cable
-3. Conputer fan
+3. Computer fan
 4. A computer
 5. Unity3d (Game engine)
