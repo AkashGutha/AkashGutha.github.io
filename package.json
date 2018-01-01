@@ -1,9 +1,9 @@
 {
-  "name": "clean-blog",
-  "title": "Clean Blog",
+  "name": "akash-gutha-blog",
+  "title": "Akash Gutha Blog",
   "version": "1.0.0",
-  "homepage": "http://startbootstrap.com",
-  "author": "Start Bootstrap",
+  "homepage": "http://akashgutha.github.io",
+  "author": "Akash Gutha",
   "license": "MIT",
   "devDependencies": {
     "grunt": "~0.4.5",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url":
-      "https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll.git"
+    "url": "https://github.com/AkashGutha/akashgutha.github.io.git",
+    "oldUrl": "https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll.git"
   }
 }
