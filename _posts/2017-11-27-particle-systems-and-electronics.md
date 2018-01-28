@@ -38,3 +38,8 @@ __4 wire variant__
 4. A computer
 5. Unity3d (Game engine)
 
+Below is a very rough Circuit Schematic of the circuit connections. This by no means perfect. But you get the idea.
+The Tacho is the tachometer output from the Fan which is connected to the ADC port of the Arduino leonardo. We cna then use the input from Arduino to control the events in Unity.
+
+![3-Wire]( {{ "assets/electronics/unity-computer-fan-circuit.png" | absolute_url }} ){:class="img-responsive"}
+
