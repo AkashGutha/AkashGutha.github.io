@@ -43,3 +43,24 @@ The Tacho is the tachometer output from the Fan which is connected to the ADC po
 
 ![3-Wire]( {{ "assets/electronics/unity-computer-fan-circuit.png" | absolute_url }} ){:class="img-responsive"}
 
+Let's get to the code.
+
+# Arduino Program
+
+The following code takes the `tacho` input from the Computer fan. The input from `tacho` is constantly monitored and the effective wind speed is calculated from this input. The calculated speed is sent to the Computer via the `Serial Port`. 
+
+```arduino
+
+void setup() {
+  // put your setup code here, to run once:
+
+    Serial.begin(9600);  
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  delay(200);
+  Serial.println("60");
+}
+
+```
